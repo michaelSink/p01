@@ -4,17 +4,18 @@
 //----------------------------------------------------------------------
 // File p01tkn.h contains token definitions
 //----------------------------------------------------------------------
-//Author: Michael Sinkankas
-//Student ID: 	*20474232
-//Email: 		msinkankas@uco.edu
-//CRN: 			22752, Spring, 2021
-//Author: 		Sean Wall
-//Student ID: 	*20410656
-//Email: 		swall6@uco.edu
-//CRN: 			21838, Spring, 2021
-//Course: 		CMSC 4023 - Programming Languages
-//Assignment: 	p01
-//Due: 			February 17th, 2021
+// Author 1:				Michael Sinkankas
+// Student ID:				*20474232
+// E-Mail:					msinkankas@uco.edu
+// Student 1 CRN:			22752, Spring, 2021
+// Author 2:				Sean Wall
+// Student ID:				*20410656
+// E-Mail:					swall6@uco.edu
+// Student 2 CRN:			21838, Spring 2021
+// Course:					CMSC 4023 – Programming Languages
+// Project:					p01
+// Due:						February 17, 2021
+// Project Account Number:	tt000
 //----------------------------------------------------------------------
 
 #define AND 1
